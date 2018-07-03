@@ -2,10 +2,22 @@
 
 ## Usage
 
-Clone to:
+### BSD, Linux & MacOS
 
-```bash
-%appdata%/mpv
+```console
+cd ~/.config/mpv/temp
+git init .
+git remote add -t \* -f origin https://github.com/wopian/mpv-config
+git checkout master
+```
+
+### Windows
+
+```console
+cd $HOME/AppData/Roaming/mpv
+git init .
+git remote add -t \* -f origin https://github.com/wopian/mpv-config
+git checkout master
 ```
 
 ## Example
