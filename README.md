@@ -2,22 +2,38 @@
 
 ## Usage
 
-### BSD, Linux & MacOS
-
-```console
-cd ~/.config/mpv/temp
-git init .
-git remote add -t \* -f origin https://github.com/wopian/mpv-config
-git checkout master
-```
-
 ### Windows
+
+#### Install
 
 ```console
 cd $HOME/AppData/Roaming/mpv
 git init .
 git remote add -t \* -f origin https://github.com/wopian/mpv-config
 git checkout master
+```
+
+#### Update
+
+```console
+git -C $HOME/AppData/Roaming/mpv pull
+```
+
+### BSD, Linux & MacOS
+
+#### Install
+
+```console
+cd ~/.config/mpv
+git init .
+git remote add -t \* -f origin https://github.com/wopian/mpv-config
+git checkout master
+```
+
+#### Update
+
+```console
+git -C ~/.config/mpv pull
 ```
 
 ## Example
