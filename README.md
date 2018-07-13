@@ -1,5 +1,8 @@
 # mpv config
 
+[![release badge]][release]
+[![donate badge]][donate]
+
 ## Usage
 
 ### Windows
@@ -47,3 +50,9 @@ git -C ~/.config/mpv pull
 ### Default (0.24.0)
 
 ![](https://i.imgur.com/UTUPumd.jpg)
+
+[release]:https://github.com/wopian/mpv-config/releases
+[release badge]:https://img.shields.io/github/release/wopian/mpv-config.svg?style=flat-square
+
+[donate]:https://paypal.me/wopian
+[donate badge]:https://img.shields.io/badge/support%20me%20on-paypal.me-ff69b4.svg?style=flat-square
