@@ -52,7 +52,7 @@ git -C ~/.config/mpv pull
 ![](https://i.imgur.com/UTUPumd.jpg)
 
 [release]:https://github.com/wopian/mpv-config/releases
-[release badge]:https://img.shields.io/github/release/wopian/mpv-config.svg?style=flat-square
+[release badge]:https://flat.badgen.net/github/release/wopian/mpv-config
 
 [donate]:https://paypal.me/wopian
-[donate badge]:https://img.shields.io/badge/support%20me%20on-paypal.me-ff69b4.svg?style=flat-square
+[donate badge]:https://flat.badgen.net/badge/support%20me%20on/paypal.me/pink
