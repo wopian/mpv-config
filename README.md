@@ -5,6 +5,8 @@
 
 ## Usage
 
+Requires the following font to be installed on the system: `Alte Haas Grotesk Regular`
+
 ### Windows
 
 #### Install
