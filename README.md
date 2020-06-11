@@ -1,7 +1,6 @@
 # mpv config
 
 [![release badge]][release]
-[![donate badge]][donate]
 
 ## Usage
 
@@ -55,6 +54,3 @@ git -C ~/.config/mpv pull
 
 [release]:https://github.com/wopian/mpv-config/releases
 [release badge]:https://flat.badgen.net/github/release/wopian/mpv-config
-
-[donate]:https://paypal.me/wopian
-[donate badge]:https://flat.badgen.net/badge/support%20me%20on/paypal.me/pink
