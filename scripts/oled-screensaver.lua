@@ -2,13 +2,13 @@ local assdraw = require "mp.assdraw"
 local options = require "mp.options"
 
 local o = {
-    startAfter = 1,
+    startAfter = 60,
     screensaverColor = "000000",
     rainbow = false,
     rainbowStep = 1,
     rainbowRedrawPrediod = 0.03,
-    alphaStep = 1,
-    luminance = 255,
+    alphaStep = 0.5,
+    luminance = 1,
 }
 
 local state = {
